@@ -153,12 +153,6 @@ Provides actionable financial recommendations:
 
 ---
 
-## 📷 Dashboard Preview
-
-*(Add screenshots here)*
-
----
-
 ## 📌 How to Use
 
 1. Download the `.pbix` file
